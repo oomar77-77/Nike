@@ -288,7 +288,7 @@ function showCart() {
 
         productPopupEle.innerHTML += `
             <div class="col-sm-6 col-lg-4 mb-3">
-                <div class="item">
+                <div class="item d-flex justify-content-center">
 
                     <div 
                         class="product bg-light px-3 py-4 rounded-3" 
