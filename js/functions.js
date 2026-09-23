@@ -287,7 +287,7 @@ function showCart() {
         let product = getProduct(cartProduct.id);
 
         productPopupEle.innerHTML += `
-            <div class="col-lg-4 mb-3">
+            <div class="col-sm-6 col-lg-4 mb-3">
                 <div class="item">
 
                     <div 
