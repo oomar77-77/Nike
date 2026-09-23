@@ -154,13 +154,13 @@ nav.navbar .navbar-brand{
     height: 70px;
 } 
 .popup[data-popup-name = "shop"] .box{
-  width: 80%;
+  width: 70%;
 }
 .popup[data-popup-name = "login"] .box{
     width: 50%;
 }
 .popup[data-popup-name = "shop"] .box .product{
-  width: 60%;
+  width: 100%;
 }
 .popup[data-popup-name = "product"] .box{
     width: 50%;
@@ -192,7 +192,11 @@ nav.navbar .navbar-brand{
 #Latest .product .part2 .item .size .label  h6{
     font-size: 20px;
 }
-.popup[data-popup-name = "login"] .box{
+.popup[data-popup-name = "shop"] .box{
+  width: 50%;
+ 
+}
+.popup[data-popup-name = "shop"] .box .product{
   width: 80%;
  
 }
