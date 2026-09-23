@@ -228,16 +228,13 @@ display: none;
     width: initial;
     margin: initial;
 }
-.popup[data-popup-name = "shop"] .box,
+
 .popup[data-popup-name = "login"] .box{
   width: 60%;
 }
 .popup[data-popup-name = "shop"] .box .product{
   width: initial;
  
-}
-.popup[data-popup-name = "login"] .box{
-     width: 30%;
 }
 .popup[data-popup-name = "product"] .box{
     width: 60%;
